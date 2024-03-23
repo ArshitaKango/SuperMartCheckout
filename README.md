@@ -17,13 +17,13 @@ Features:
     2. Usage
 
   
- Administrator Mode:
+ ## Administrator Mode:
 
-  Login using predefined credentials (email: arshita@email.com, password: arshita@123). 
-  Perform administrative tasks such as adding, modifying, or deleting products.
+  - Login using predefined credentials (email: arshita@email.com, password: arshita@123). 
+  -  Perform administrative tasks such as adding, modifying, or deleting products.
   
 
- Buyer Mode:
+ ## Buyer Mode:
  
-  Browse available products. 
-  Select products for purchase and generate a receipt.
+  - Browse available products. 
+  - Select products for purchase and generate a receipt.
