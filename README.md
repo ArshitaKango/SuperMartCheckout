@@ -1,4 +1,4 @@
-# SuperMartCheckout-Supermarket Management System
+# Supermarket Management System
 
 This project implements a simple Supermarket Management System using C++. It allows both administrators and buyers to interact with the system to perform various tasks such as adding products, modifying products, deleting products, listing products, and generating receipts.
 
