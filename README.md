@@ -4,13 +4,13 @@ This project implements a simple Supermarket Management System using C++. It all
 
 Features
   Administrator Functions:
-    Add a new product to the system.
-    Modify details of existing products.
-    Delete products from the system.
+    1. Add a new product to the system.
+    2. Modify details of existing products.
+    3. Delete products from the system.
     
   Buyer Functions:
-    Purchase products and generate a receipt.
-    Usage
+    1. Purchase products and generate a receipt.
+    2. Usage
 
   
 # Administrator Mode:
